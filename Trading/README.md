@@ -15,9 +15,9 @@ Trading fundamentals such as OHLC and candle sticks
 
 ### Future potential projects
 
-- How much do Elon tweets affect the market trends
-- Candlestick anaylsis
-- Create candlestick charts for BTC
-- More coin insights (ETH, Polkadot)
-- Top 10 analysis
-- Bitcoin 101 
+-[ ] How much do Elon tweets affect the market trends
+-[x] Candlestick anaylsis
+-[x] Create candlestick charts for BTC
+-[ ] More coin insights (ETH, Polkadot)
+-[ ] Top 10 analysis
+-[ ] Bitcoin 101 
