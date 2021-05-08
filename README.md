@@ -1,14 +1,14 @@
 # Algo-trading with Cryptocurrencies
 
-This repo is where I store my research in algo trading and crypto trading using Jupyter and python
+This repo is where I store my research in algo trading and crypto trading using Jupyter and python. The research is mainly using data frames to contextualize the fundamentals of algorithmic trading in order to make more accurate and eduacted strategies. 
 
 ## Pre-requisite knowledge
 
-Python
-Pandas
-Jupyter notebooks
-Trading TA
-Crypto
+- Python
+- Pandas
+- Jupyter notebooks
+- Trading TA
+- Crypto
 
 ## requirements
 
