@@ -1,7 +1,7 @@
 # Crypto notebooks
 
 
-## Crypto
+## Cryptocurrencies
 
 general research and resources with some insights and background on crypto
 
@@ -9,9 +9,9 @@ general research and resources with some insights and background on crypto
 
 Looking at how market indicators can be used to predict BTC price
 
-## Fear/Greed
+## Fundamentals
 
-Looking at how the fear/greed index affects momentum when trading BTC
+Trading fundamentals such as OHLC and candle sticks
 
 ### Future potential projects
 
